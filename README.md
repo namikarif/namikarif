@@ -2,17 +2,17 @@
 <h3 align="center">A Java Developer from Istanbul/Turkey</h3>
 
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **Java Spring Boot.**
 
 - 📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
 
-- 📫 How to reach me **fatihhernn@gmail.com**  
+- 📫 How to reach me **info@namikarifoglu.com**  
 -  [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
 
 ## :notes: GitHub Stats And Top Languages
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=fatihhernn&show_icons=true&count_private=true&layout=compact&theme=dark)](#)       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihhernn&layout=compact&langs_count=8&theme=dark)](#)
-[![Stats](http://github-readme-streak-stats.herokuapp.com?user=fatihhernn&theme=highcontrast&fire=CA0000)](#)
+[![Stats](https://github-readme-stats.vercel.app/api?username=namikarif&show_icons=true&count_private=true&layout=compact&theme=dark)](#)       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namikarif&layout=compact&langs_count=8&theme=dark)](#)
+[![Stats](http://github-readme-streak-stats.herokuapp.com?user=namikarif&theme=highcontrast&fire=CA0000)](#)
 
 
   
