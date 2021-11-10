@@ -38,7 +38,7 @@
     /> </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://tr.wikipedia.org/wiki/Dosya:Vue.js_Logo_2.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png"
       alt="vuejs"
       width="40"
       height="40"
@@ -48,6 +48,21 @@
     <img
       src="https://droidcontrols.com/wp-content/uploads/2021/05/react-native-logo.png"
       alt="reactnative"
+      width="40"
+      height="40"
+    /> </a>
+  
+  <a href="https://nativescript.org/" target="_blank">
+    <img
+      src="https://www.azoft.com/wp-content/uploads/2017/10/nativescript@3x.png"
+      alt="nativescript"
+      width="40"
+      height="40"
+    /> </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/2560px-Ionic_Logo.svg.png"
+      alt="ionic"
       width="40"
       height="40"
     /> </a>
