@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @namikarif
-<h3 align="center">A Java Developer from Istanbul/Turkey</h3>
+<h3 align="center">A FrontEnd Developer from Istanbul/Turkey</h3>
 
 
 - 🌱 I’m currently learning **Java Spring Boot.**
 
-- 📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
-
 - 📫 How to reach me **info@namikarifoglu.com**  
--  [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
+-  [![Linkedin Badge](https://img.shields.io/badge/NamigAbdukarimov-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namikarifoglu/)
 
 ## :notes: GitHub Stats And Top Languages
 
@@ -24,31 +22,48 @@
     /> 
   </a>
   
-  <a href="https://kotlinlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg"
-      alt="kotlin"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+      alt="typescript"
       width="40"
       height="40"
-    /> </a
-  >
-  <a href="https://www.java.com/tr/" target="_blank">
+    /> </a>
+  <a href="https://angular.io/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-      alt="java"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/500px-Angular_full_color_logo.svg.png"
+      alt="angular"
       width="40"
       height="40"
-    /> </a
-  >
-  <a href="https://tr.wikipedia.org/wiki/C_Sharp" target="_blank">
+    /> </a>
+  <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png"
-      alt="c#"
+      src="https://tr.wikipedia.org/wiki/Dosya:Vue.js_Logo_2.svg"
+      alt="vuejs"
       width="40"
       height="40"
-    /> </a
-  >
-  
-  
-
+    /> </a>
+                 
+<a href="https://reactnative.dev/" target="_blank">
+    <img
+      src="https://droidcontrols.com/wp-content/uploads/2021/05/react-native-logo.png"
+      alt="reactnative"
+      width="40"
+      height="40"
+    /> </a>
+                 
+   <a href="https://www.php.net/" target="_blank">
+    <img
+      src="https://www.svgrepo.com/show/303208/php-1-logo.svg"
+      alt="php"
+      width="40"
+      height="40"
+    /> </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+      alt="javascript"
+      width="40"
+      height="40"
+    /> </a>
 </p>
