@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning **Java Spring Boot.**
 
-- 💻 My web site [NamikArifoglu](https://namikarifoglu.com
+- 💻 My web site [NamikArifoglu](https://namikarifoglu.com)
 
 - 📫 How to reach me **info@namikarifoglu.com**  
 
