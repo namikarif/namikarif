@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @namikarif
 <h3 align="center">A FrontEnd Developer from Istanbul/Turkey</h3>
 
-
+- 👋 Hi, I’m @namikarif
+- 
 - 🌱 I’m currently learning **Java Spring Boot.**
 
+- 💻 My web site [NamikArifoglu](https://namikarifoglu.com
+
 - 📫 How to reach me **info@namikarifoglu.com**  
+
 -  [![Linkedin Badge](https://img.shields.io/badge/NamigAbdukarimov-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/namikarifoglu/)
 
 ## :notes: GitHub Stats And Top Languages
