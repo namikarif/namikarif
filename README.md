@@ -49,7 +49,7 @@
                  
 <a href="https://reactnative.dev/" target="_blank">
     <img
-      src="https://droidcontrols.com/wp-content/uploads/2021/05/react-native-logo.png"
+      src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"
       alt="reactnative"
       width="40"
       height="40"
