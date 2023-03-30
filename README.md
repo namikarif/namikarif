@@ -1,4 +1,4 @@
-<h3 align="center">A FrontEnd Developer from Istanbul/Turkey</h3>
+<h3 align="center">A Senior FullStack Developer from Istanbul/Turkey</h3>
 
 - 👋 Hi, I’m @namikarif
 
